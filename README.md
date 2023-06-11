@@ -19,4 +19,4 @@ Its java project so you can use any IDE and just copy the classes with the same 
 ## Author
 Alireza Kalantar Hormozi
 ## License
-MIT LICENSE (link)
+MIT LICENSE ([link](https://github.com/ayroking/Greedy-Approach-For-Traffic-Light-Problem/blob/master/LICENSE))
